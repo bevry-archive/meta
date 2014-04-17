@@ -1,4 +1,6 @@
-Org
+Meta Issues
 ===
 
-A place to organize DocPad's meta-issues and topics as GitHub issues. 
+A place to discuss meta issues surround the Bevry community and it's projects
+
+[Discuss](https://github.com/bevry/meta/issues)
