@@ -1,4 +1,4 @@
-Meta Issues
+Meta
 ===
 
 A place to discuss meta issues surround the Bevry community and it's projects
