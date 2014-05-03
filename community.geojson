@@ -13,6 +13,19 @@
           -33.838197
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "githubUsername": "RobLoach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.456961,
+          43.677633
+        ]
+      }
     }
   ]
 }
