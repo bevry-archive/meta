@@ -39,6 +39,32 @@
           40.085154
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "githubUsername": "Greduan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.370078,
+          23.944748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "githubUsername": "ahdinosaur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.264057,
+          37.884742
+        ]
+      }
     }
   ]
 }
