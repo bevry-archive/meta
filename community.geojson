@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "githubUsername": "balupton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.059617,
+          -33.838197
+        ]
+      }
+    }
+  ]
+}
