@@ -26,6 +26,19 @@
           43.677633
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "githubUsername": "mikeumus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41417,
+          40.085154
+        ]
+      }
     }
   ]
 }
